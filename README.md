@@ -42,26 +42,24 @@ pip install pandas matplotlib seaborn jupyter
 jupyter notebook "New Text Document.txt"
 ```
 
+
 ## 📸 Visual Previews
 
-<details>
-<summary>🖼️ Click to expand image previews</summary>
+<table>
+  <tr>
+    <td><img src="main/pictures/discount_vs_profit.png" alt="Discount vs Profit" width="250"/></td>
+    <td><img src="main/pictures/monthly_sales_trends.png" alt="Monthly Sales Trends" width="250"/></td>
+    <td><img src="main/pictures/top_10_least_profitable_products.png" alt="Top 10 Least Profitable Products" width="250"/></td>
+    <td><img src="main/pictures/top_10_most_profitable_products.png" alt="Top 10 Most Profitable Products" width="250"/></td>
+  </tr>
+  <tr>
+    <td align="center">Discount vs Profit</td>
+    <td align="center">Monthly Sales Trends</td>
+    <td align="center">Top 10 Least Profitable Products</td>
+    <td align="center">Top 10 Most Profitable Products</td>
+  </tr>
+</table>
 
-<div style="display: flex; overflow-x: auto; gap: 10px; padding: 10px;">
-  <img src="main/pictures/Total sales by region.png" alt="Total Sales by Region" width="300">
-  <img src="main/pictures/average_order_value.png" alt="Average Order Value" width="300">
-  <img src="main/pictures/sales_by_category.png" alt="Sales by Category" width="300">
-  <img src="main/pictures/discount_vs_profit.png" alt="Discount vs Profit" width="300">
-  <img src="main/pictures/monthly_sales_trends.png" alt="Monthly Sales Trends" width="300">
-  <img src="main/pictures/sales_histogram.png" alt="Sales Histogram" width="300">
-  <img src="main/pictures/sales_boxplot.png" alt="Sales Boxplot" width="300">
-  <img src="main/pictures/most_frequent_customers.png" alt="Most Frequent Customers" width="300">
-  <img src="main/pictures/most_profitable_products.png" alt="Most Profitable Products" width="300">
-  <img src="main/pictures/least_profitable_products.png" alt="Least Profitable Products" width="300">
-  <img src="main/pictures/total_sales_profit_quantity.png" alt="Total Sales, Profit, Quantity" width="300">
-</div>
-
-</details>
 
 ---
 
