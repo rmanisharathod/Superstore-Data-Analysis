@@ -68,15 +68,15 @@ jupyter notebook "New Text Document.txt"
 
 <table>
   <tr>
-    <td><img src="scattered.png" alt="Discount vs. Profit" width="400"/></td>
-    <td><img src="line.png" alt="Monthly Sales Trends" width="400"/></td>
+    <td><img src="scattered.PNG" alt="Discount vs. Profit" width="400"/></td>
+    <td><img src="line.PNG" alt="Monthly Sales Trends" width="400"/></td>
   </tr>
   <tr>
     <td align="center">Discount vs. Profit</td>
     <td align="center">Monthly Sales Trends</td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src="barmost.png" alt="Top 10 Most Profitble Products" width="400"/></td>
+    <td colspan="2" align="center"><img src="barmost.PNG" alt="Top 10 Most Profitble Products" width="400"/></td>
   </tr>
   <tr>
     <td colspan="2" align="center">Top 10 Most Profitble Products</td>
