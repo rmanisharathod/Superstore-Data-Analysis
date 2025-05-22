@@ -44,8 +44,29 @@ jupyter notebook "New Text Document.txt"
 
 ## 📸 Visual Previews
 
-| 📈 Plot Title                  | 📊 Chart Type     | 🧾 Columns Used             | 🔍 Purpose                            |
-|-------------------------------|-------------------|-----------------------------|----------------------------------------|
+<details>
+<summary>🖼️ Click to expand image previews</summary>
+
+<div style="display: flex; overflow-x: auto; gap: 10px; padding: 10px;">
+  <img src="main/pictures/total_sales_by_region.png" alt="Total Sales by Region" width="300">
+  <img src="main/pictures/average_order_value.png" alt="Average Order Value" width="300">
+  <img src="main/pictures/sales_by_category.png" alt="Sales by Category" width="300">
+  <img src="main/pictures/discount_vs_profit.png" alt="Discount vs Profit" width="300">
+  <img src="main/pictures/monthly_sales_trends.png" alt="Monthly Sales Trends" width="300">
+  <img src="main/pictures/sales_histogram.png" alt="Sales Histogram" width="300">
+  <img src="main/pictures/sales_boxplot.png" alt="Sales Boxplot" width="300">
+  <img src="main/pictures/most_frequent_customers.png" alt="Most Frequent Customers" width="300">
+  <img src="main/pictures/most_profitable_products.png" alt="Most Profitable Products" width="300">
+  <img src="main/pictures/least_profitable_products.png" alt="Least Profitable Products" width="300">
+  <img src="main/pictures/total_sales_profit_quantity.png" alt="Total Sales, Profit, Quantity" width="300">
+</div>
+
+</details>
+
+---
+
+| 📈 Plot Title                 | 📊 Chart Type    | 🧾 Columns Used             | 🔍 Purpose                            |
+|------------------------------|------------------|-----------------------------|----------------------------------------|
 | Total Sales by Region         | Bar Chart         | Region, Sales               | Compare regional performance           |
 | Average Order Value           | Bar Chart         | Sales                       | Show mean value of all orders          |
 | Sales by Category             | Bar Chart         | Category, Sales             | Identify top-selling categories        |
@@ -59,6 +80,7 @@ jupyter notebook "New Text Document.txt"
 | Total Sales, Profit, Quantity | Bar Chart         | Sales, Profit, Quantity     | Overview of key KPIs                   |
 
 > All charts are interactive and viewable in the notebook.
+
 
 ---
 
