@@ -41,23 +41,6 @@ pip install pandas matplotlib seaborn jupyter
 ```bash
 jupyter notebook "New Text Document.txt"
 ```
-
-
-## 📸 Visual Previews
-
-## 📊 Visual Insights
-
-<table>
-  <tr>
-    <td><img src="main\1.PNG" alt="Discount vs Profit" width="250"/></td>
-  </tr>
-  <tr>
-    <td align="center">Discount vs Profit</td>
-  </tr>
-</table>
-
-
-
 ---
 
 | 📈 Plot Title                 | 📊 Chart Type    | 🧾 Columns Used             | 🔍 Purpose                            |
