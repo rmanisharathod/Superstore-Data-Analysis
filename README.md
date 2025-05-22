@@ -45,20 +45,17 @@ jupyter notebook "New Text Document.txt"
 
 ## 📸 Visual Previews
 
+## 📊 Visual Insights
+
 <table>
   <tr>
-    <td><img src="main\pictures\discount_vs_profit.png" alt="Discount vs Profit" width="250"/></td>
-    <td><img src="main/pictures/monthly_sales_trends.png" alt="Monthly Sales Trends" width="250"/></td>
-    <td><img src="main/pictures/top_10_least_profitable_products.png" alt="Top 10 Least Profitable Products" width="250"/></td>
-    <td><img src="main/pictures/top_10_most_profitable_products.png" alt="Top 10 Most Profitable Products" width="250"/></td>
+    <td><img src="main/pictures/discount_vs_profit.png" alt="Discount vs Profit" width="250"/></td>
   </tr>
   <tr>
     <td align="center">Discount vs Profit</td>
-    <td align="center">Monthly Sales Trends</td>
-    <td align="center">Top 10 Least Profitable Products</td>
-    <td align="center">Top 10 Most Profitable Products</td>
   </tr>
 </table>
+
 
 
 ---
