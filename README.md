@@ -49,7 +49,7 @@ jupyter notebook "New Text Document.txt"
 
 <table>
   <tr>
-    <td><img src="main\pictures\discount_vs_profit.png" alt="Discount vs Profit" width="250"/></td>
+    <td><img src="main\pictures\discount_vs_profit.PNG" alt="Discount vs Profit" width="250"/></td>
   </tr>
   <tr>
     <td align="center">Discount vs Profit</td>
