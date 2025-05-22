@@ -48,7 +48,7 @@ jupyter notebook "New Text Document.txt"
 <summary>🖼️ Click to expand image previews</summary>
 
 <div style="display: flex; overflow-x: auto; gap: 10px; padding: 10px;">
-  <img src="main/pictures/total sales by region.png" alt="Total Sales by Region" width="300">
+  <img src="main/pictures/Total sales by region.png" alt="Total Sales by Region" width="300">
   <img src="main/pictures/average_order_value.png" alt="Average Order Value" width="300">
   <img src="main/pictures/sales_by_category.png" alt="Sales by Category" width="300">
   <img src="main/pictures/discount_vs_profit.png" alt="Discount vs Profit" width="300">
