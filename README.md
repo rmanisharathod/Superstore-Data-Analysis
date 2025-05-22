@@ -44,7 +44,7 @@ jupyter notebook "New Text Document.txt"
 
 ---
 
-## Overview of Key Data Insights through Visualizations
+## 📊 Insight Charts Overview: Visualizing Key Business Metrics
 
 | 📈 Plot Title                 | 📊 Chart Type    | 🧾 Columns Used             | 🔍 Purpose                            |
 |------------------------------|------------------|-----------------------------|----------------------------------------|
