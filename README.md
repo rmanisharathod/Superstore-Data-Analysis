@@ -41,7 +41,10 @@ pip install pandas matplotlib seaborn jupyter
 ```bash
 jupyter notebook "New Text Document.txt"
 ```
+
 ---
+
+## Overview of Key Data Insights through Visualizations
 
 | 📈 Plot Title                 | 📊 Chart Type    | 🧾 Columns Used             | 🔍 Purpose                            |
 |------------------------------|------------------|-----------------------------|----------------------------------------|
@@ -58,7 +61,6 @@ jupyter notebook "New Text Document.txt"
 | Total Sales, Profit, Quantity | Bar Chart         | Sales, Profit, Quantity     | Overview of key KPIs                   |
 
 > All charts are interactive and viewable in the notebook.
-
 
 ---
 
