@@ -115,4 +115,4 @@ Thanks to the **Superstore dataset community** and developers of **pandas**, **m
 ## 📫 Contact
 
 For feedback, suggestions, or questions:  
-📧 **your-email@example.com**
+📧 **r.manisharathod6@gmail.com**
